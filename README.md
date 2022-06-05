@@ -21,11 +21,8 @@
 
 </details>
 
-
 ## Menú Principal :
 ![Screenshot_20220530-121417_Termux](https://user-images.githubusercontent.com/81049859/171034021-37e02412-727e-4a72-8e59-ff83fc8437ae.png)
-
-
 
 ## UtilsCj7 :
 * Instala **Recursos Básicos** para Termux.
@@ -35,8 +32,9 @@
 
 ## Instalación :
 
-* `apt update && apt upgrade -y`
-
+```bash
+  yes|pkg update && pkg upgrade
+```
 * `apt install ncurses-utils -y`
 
 * `pkg install -y git`
