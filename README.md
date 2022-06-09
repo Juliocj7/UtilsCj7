@@ -35,9 +35,7 @@
 ```bash
   yes|pkg update && pkg upgrade
 ```
-* `apt install ncurses-utils -y`
-
-* `pkg install -y git`
+* `yes|pkg i git ncurses-utils`
 
 * `git clone https://github.com/Juliocj7/UtilsCj7`
 
