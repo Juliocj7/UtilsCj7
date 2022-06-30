@@ -13,12 +13,13 @@
  
 <p align="center"><img src="https://github.com/Juliocj7/Juliocj7/blob/main/InicioCj72.gif" width="350" height="110"/> </p>
 
-<details>
+<details align="center">
 <summary>  ⸸𝕵𝖚𝖑𝖎𝖔𖤐𝖈𝖏7⸸ </summary>
-<br>
-
- - 𝑃𝑢𝑒𝑑𝑒𝑠 𝑚𝑖𝑟𝑎𝑟 𝑝𝑒𝑟𝑜... 𝑝𝑜𝑟𝑓𝑎𝑣𝑜𝑟 𝑁𝑂 !!! 𝑐𝑜𝑝𝑖𝑎𝑟 𝑁𝐴𝐷𝐴 !!!
-
+<img src= "https://github.com/Juliocj7/Juliocj7/blob/main/BarCj7.gif"/>
+<br><br>
+<p align="left"><strong><samp>「</samp><strong></p>
+<samp>Puedes mirar pero no copiar<br>inmundo animal xD<br><br>
+<p align="right"><strong><samp>」</samp></strong></p>
 </details>
 
 ## Menú Principal :
