@@ -33,9 +33,9 @@
 
 ## UtilsCj7 :
 * Instala **Recursos Básicos** para Termux.
-* Instala mi **teclado multilínea y multifuncional** con acceso a varios atajos.
+* Instala un especial **teclado multilínea y multifuncional** con acceso a varios atajos (cada tecla contiene sus secretos xD).
 * Crea un **acceso directo** hacia tu memoria externa (microsd).
-* Lista todos los **paquetes a instalar** y obtén el espacio exacto que se ocupará en tu almacenamiento.
+* Lista todos los **paquetes a instalar** y obtén el espacio exacto que ocupará en tu almacenamiento.
 * **Importante** descargar e instalar Termux y Termux-Api desde F-Droid, ya que de lo contrario ninguna de mis herramientas funcionará.
 * Contenido, código, diseño y demás, pertenecen plena y totalmente a mí :sunglasses:
 - > ` By: ⍣᭕ᬁ᭖JulioCj7᭖᭕ᬁ⍣ `
