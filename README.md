@@ -27,7 +27,7 @@
 
 ## Recursos Básicos :
 
-|Pkg A|Plg B|
+|PKG A|PKG B|
 |-----|-----|
 |![Screenshot_20220706-171505_Termux](https://user-images.githubusercontent.com/81049859/177645271-4a1c9399-a6b3-40b4-8023-9a00e0e6bb0e.png)|![Screenshot_20220706-171454_Termux](https://user-images.githubusercontent.com/81049859/177645296-d58f099b-9037-4e49-a26e-88e07aa97e0a.png)|
 
