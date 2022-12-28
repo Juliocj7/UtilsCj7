@@ -23,13 +23,17 @@
 </details>
 
 ## Menú Principal :
-![Screenshot_20220927-134103_Termux](https://user-images.githubusercontent.com/81049859/192598837-f6e49c32-ee69-4af2-b8be-96960c4917d1.png)
+![Screenshot_20221228-162934_Termux](https://user-images.githubusercontent.com/81049859/209873288-be29c782-9367-4658-91b1-58daa2af216e.png)
 
 ## Recursos Básicos :
 
+
+
 |PKG A|PKG B|
 |-----|-----|
-|![Screenshot_20220927-133929_Termux](https://user-images.githubusercontent.com/81049859/192599023-86f33553-68fe-4c5a-9463-4a601aa04777.png)|![Screenshot_20220927-133956_Termux](https://user-images.githubusercontent.com/81049859/192599055-f56c04fd-20c2-470b-84e0-2fd6d324d18e.png)|
+![Screenshot_20221228-171919_Termux](https://user-images.githubusercontent.com/81049859/209873385-83e0c5ef-887d-4138-a9e6-2ee97f9a5e4d.png)
+![Screenshot_20221228-171926_Termux](https://user-images.githubusercontent.com/81049859/209873399-d88ba3cf-7441-460f-be87-f8880fd317a0.png)
+
 
 ## UtilsCj7 :
 * Instala **Recursos Básicos** para Termux.
