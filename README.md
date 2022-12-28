@@ -27,13 +27,9 @@
 
 ## Recursos Básicos :
 
-
-
 |PKG A|PKG B|
 |-----|-----|
-![Screenshot_20221228-171919_Termux](https://user-images.githubusercontent.com/81049859/209873385-83e0c5ef-887d-4138-a9e6-2ee97f9a5e4d.png)
-![Screenshot_20221228-171926_Termux](https://user-images.githubusercontent.com/81049859/209873399-d88ba3cf-7441-460f-be87-f8880fd317a0.png)
-
+|![Screenshot_20221228-171919_Termux](https://user-images.githubusercontent.com/81049859/209873385-83e0c5ef-887d-4138-a9e6-2ee97f9a5e4d.png)|![Screenshot_20221228-171926_Termux](https://user-images.githubusercontent.com/81049859/209873399-d88ba3cf-7441-460f-be87-f8880fd317a0.png)|
 
 ## UtilsCj7 :
 * Instala **Recursos Básicos** para Termux.
