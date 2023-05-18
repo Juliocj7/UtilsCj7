@@ -23,7 +23,7 @@
 </details>
 
 ## Menú Principal :
-![Screenshot_20221228-162934_Termux](https://user-images.githubusercontent.com/81049859/209873288-be29c782-9367-4658-91b1-58daa2af216e.png)
+![Screenshot_20230517_195831_Termux](https://github.com/Juliocj7/UtilsCj7/assets/81049859/cd875954-91cb-4dca-a903-b12f1d965916)
 
 ## Recursos Básicos :
 
