@@ -29,7 +29,7 @@
 
 |PKG A|PKG B|
 |-----|-----|
-|![Screenshot_20221228-171919_Termux](https://user-images.githubusercontent.com/81049859/209873385-83e0c5ef-887d-4138-a9e6-2ee97f9a5e4d.png)|![Screenshot_20221228-171926_Termux](https://user-images.githubusercontent.com/81049859/209873399-d88ba3cf-7441-460f-be87-f8880fd317a0.png)|
+|![Screenshot_20230517_200732_Termux](https://github.com/Juliocj7/UtilsCj7/assets/81049859/472a63f6-d692-467f-876a-e6b181f3dc94)|![Screenshot_20230517_200737_Termux](https://github.com/Juliocj7/UtilsCj7/assets/81049859/8d6d3a47-b459-4cfd-9d69-b3c65c706f25)|
 
 ## UtilsCj7 :
 * Instala **Recursos Básicos** para Termux.
