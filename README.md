@@ -42,7 +42,7 @@
 ## Instalación :
 
 ```bash
-  yes|pkg update && pkg upgrade
+  yes|apt update && apt upgrade
 ```
 * `yes|pkg i git ncurses-utils`
 
