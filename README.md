@@ -26,7 +26,7 @@
 ![1000328574](https://github.com/Juliocj7/UtilsCj7/assets/81049859/f540f2de-990d-4df4-a785-933806d09738)
 
 ## Recursos Básicos :
-|PKG A|PKG B|
+|Packages|Packages|
 |-----|-----|
 |![Screenshot_20230517_200732_Termux](https://github.com/Juliocj7/UtilsCj7/assets/81049859/472a63f6-d692-467f-876a-e6b181f3dc94)|![Screenshot_20230517_200737_Termux](https://github.com/Juliocj7/UtilsCj7/assets/81049859/8d6d3a47-b459-4cfd-9d69-b3c65c706f25)|
 
