@@ -43,7 +43,7 @@ ______________________________________________________
 </div>
 
 ## Menú Principal :
-![1000328574](https://github.com/Juliocj7/UtilsCj7/assets/81049859/f540f2de-990d-4df4-a785-933806d09738)
+![1000330876](https://github.com/Juliocj7/UtilsCj7/assets/81049859/ca23848d-893b-4a4f-aa11-d75e2598dd5d)
 
 ## Recursos Básicos :
 |Packages|Packages|
@@ -51,7 +51,7 @@ ______________________________________________________
 |![Screenshot_20230517_200732_Termux](https://github.com/Juliocj7/UtilsCj7/assets/81049859/472a63f6-d692-467f-876a-e6b181f3dc94)|![Screenshot_20230517_200737_Termux](https://github.com/Juliocj7/UtilsCj7/assets/81049859/8d6d3a47-b459-4cfd-9d69-b3c65c706f25)|
 
 ## UtilsCj7 :
-* Instala **Recursos Básicos** para Termux.
+* Instala **recursos básicos** para Termux.
 * Instala un especial **teclado multilínea y multifuncional** con acceso a varios atajos (cada tecla contiene sus secretos xD).
 * Crea un **acceso directo** hacia tu memoria externa (microsd).
 * Lista todos los **paquetes a instalar** y obtén el espacio exacto que ocupará en tu almacenamiento.
