@@ -59,7 +59,7 @@ ______________________________________________________
 - > ` By: ⍣᭕ᬁ᭖JulioCj7᭖᭕ᬁ⍣ `
 
 ## Instalación :
-> [!NOTE]
+> [!IMPORTANT]
 > > Descargar e instalar [`Termux`](https://github.com/termux/termux-app/actions) y [`Termux-Api`](https://github.com/termux/termux-api/actions) desde Github, ya que de lo contrario ninguna de mis herramientas funcionará.
 
 ###### 01. Actualizar paquetes
