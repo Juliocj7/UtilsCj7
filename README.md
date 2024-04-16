@@ -55,11 +55,13 @@ ______________________________________________________
 * Instala un especial **teclado multilínea y multifuncional** con acceso a varios atajos (cada tecla contiene sus secretos xD).
 * Crea un **acceso directo** hacia tu memoria externa (microsd).
 * Lista todos los **paquetes a instalar** y obtén el espacio exacto que ocupará en tu almacenamiento.
-* **Importante** descargar e instalar [Termux](https://f-droid.org/es/packages/com.termux/) y [Termux-Api](https://f-droid.org/es/packages/com.termux.api/) desde F-Droid, ya que de lo contrario ninguna de mis herramientas funcionará.
 * Contenido, código, diseño y demás, pertenecen plena y totalmente a mí :sunglasses:
 - > ` By: ⍣᭕ᬁ᭖JulioCj7᭖᭕ᬁ⍣ `
 
 ## Instalación :
+> [!CAUTION]
+> > Descargar e instalar [`Termux`](https://github.com/termux/termux-app/actions) y [`Termux-Api`](https://github.com/termux/termux-api/actions) desde Github, ya que de lo contrario ninguna de mis herramientas funcionará.
+
 ###### 01. Actualizar paquetes
 ```shell
 yes|{apt update && apt upgrade}
