@@ -60,19 +60,22 @@ ______________________________________________________
 - > ` By: ⍣᭕ᬁ᭖JulioCj7᭖᭕ᬁ⍣ `
 
 ## Instalación :
-
-```bash
-  yes|apt update && apt upgrade
+###### 01. Actualizar paquetes
+```shell
+yes|{apt update && apt upgrade}
 ```
-* `yes|pkg i git ncurses-utils`
-
-* `git clone https://github.com/Juliocj7/UtilsCj7`
-
-* `cd UtilsCj7`
-
-* `chmod +x *`
-
-* `./UtilsCj7`
+###### 02. Instalar requisitos
+```shell
+yes|pkg i git ncurses-utils
+```
+###### 03. Clonar repositorio
+```shell
+gh repo clone Juliocj7/UtilsCj7
+```
+###### 04. Ahora disfruta xD
+```shell
+cd UtilsCj7 && chmod +x * && ./UtilsCj7
+```
 
 ---
 ###### `Pd: Porfavor informar cualquier error`
