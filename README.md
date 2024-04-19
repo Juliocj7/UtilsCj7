@@ -51,24 +51,28 @@ ______________________________________________________
 |![Screenshot_20230517_200732_Termux](https://github.com/Juliocj7/UtilsCj7/assets/81049859/472a63f6-d692-467f-876a-e6b181f3dc94)|![Screenshot_20230517_200737_Termux](https://github.com/Juliocj7/UtilsCj7/assets/81049859/8d6d3a47-b459-4cfd-9d69-b3c65c706f25)|
 
 ## UtilsCj7 :
-* Instala **recursos básicos** para Termux.
-* Instala un especial **teclado multilínea y multifuncional** con acceso a varios atajos (cada tecla contiene sus secretos xD).
-* Crea un **acceso directo** hacia tu memoria externa (microsd).
+* Instalación de **recursos básicos** para Termux, además de un especial **teclado multilínea y multifuncional** con acceso a varios atajos (cada tecla contiene sus secretos xD).
+* Crea un **acceso directo** hacia tu memoria externa (microsd) (si la tienes disponible).
 * Lista todos los **paquetes a instalar** y obtén el espacio exacto que ocupará en tu almacenamiento.
 * Contenido, código, diseño y demás, pertenecen plena y totalmente a mí :sunglasses:
-- > ` By: ⍣᭕ᬁ᭖JulioCj7᭖᭕ᬁ⍣ `
+- > 𝙱𝚢: ` ⍣᭕ᬁ᭖𝙹𝚞𝚕𝚒𝚘𖤐𝙲𝚓7᭖᭕ᬁ⍣ `
 
 ## Instalación :
 > [!NOTE]
-> > Descargar e instalar [`Termux`](https://github.com/termux/termux-app/actions) y [`Termux-Api`](https://github.com/termux/termux-api/actions) desde Github, ya que de lo contrario ninguna de mis herramientas funcionará.
+> > <details>
+> >   <summary>&nbsp;𝚁𝚎𝚚𝚞𝚒𝚜𝚒𝚝𝚘 𝚒𝚖𝚙𝚘𝚛𝚝𝚊𝚗𝚝𝚎 &#9995;&#127995;</summary>
+> >
+> > <sub>𝙸𝚗𝚜𝚝𝚊𝚕𝚕:</sub> [𝚃𝚎𝚛𝚖𝚞𝚡-𝙰𝚙𝚙](https://github.com/termux/termux-app/actions)<br>
+> > <sub>𝙸𝚗𝚜𝚝𝚊𝚕𝚕:</sub> [𝚃𝚎𝚛𝚖𝚞𝚡-𝙰𝚙𝚒](https://github.com/termux/termux-api/actions)<br>
+> > </details>
 
 ###### 01. Actualizar paquetes
 ```shell
-yes|{apt update && apt upgrade}
+yes|{ apt update && apt upgrade; }
 ```
 ###### 02. Instalar requisitos
 ```shell
-yes|pkg i git ncurses-utils
+yes| pkg i git ncurses-utils
 ```
 ###### 03. Clonar repositorio
 ```shell
@@ -80,6 +84,27 @@ cd UtilsCj7 && chmod +x * && ./UtilsCj7
 ```
 
 ---
-###### `Pd: Porfavor informar cualquier error`
-###### `By: JulioCj7 +59179424937` :stuck_out_tongue_winking_eye:
+
+> [!CAUTION]
+> > <sub>𝚂𝚘𝚛𝚛𝚢, 𝚝𝚑𝚒𝚜 𝚒𝚜 𝚞𝚗𝚍𝚎𝚛 𝚖𝚊𝚒𝚗𝚝𝚎𝚗𝚊𝚗𝚌𝚎.</sub><br>
+> > <sub>¡ 𝙰𝚟𝚊𝚒𝚕𝚊𝚋𝚕𝚎 𝚌𝚘𝚖𝚒𝚗𝚐 𝚜𝙾𝙾𝚗 !</sub>
+
 ---
+
+```ShellSession
+[𝙼𝚊𝚔𝚎@𝙱𝚢]:~$ #+59179424937 😜
+```
+
+<div align="center">
+  <sub>
+    
+  > 𝙿𝚘𝚛𝚏𝚊𝚟𝚘𝚛 𝚒𝚗𝚏𝚘𝚛𝚖𝚊𝚛 𝚌𝚞𝚊𝚕𝚚𝚞𝚒𝚎𝚛 𝚎𝚛𝚛𝚘𝚛
+
+  </sub>
+</div>
+
+<div align="center">
+  <a href="#--------">
+    <img src= "https://github.com/Juliocj7/Juliocj7/blob/main/BarCj7.gif"/>
+  </a>
+</div>
