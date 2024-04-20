@@ -46,9 +46,9 @@ ______________________________________________________
 ![1000330876](https://github.com/Juliocj7/UtilsCj7/assets/81049859/ca23848d-893b-4a4f-aa11-d75e2598dd5d)
 
 ## Recursos Básicos :
-|Packages|Packages|
-|-----|-----|
-|![Screenshot_20230517_200732_Termux](https://github.com/Juliocj7/UtilsCj7/assets/81049859/472a63f6-d692-467f-876a-e6b181f3dc94)|![Screenshot_20230517_200737_Termux](https://github.com/Juliocj7/UtilsCj7/assets/81049859/8d6d3a47-b459-4cfd-9d69-b3c65c706f25)|
+|pkgs|pkgs|
+|:--:|:--:|
+|![1000332897](https://github.com/Juliocj7/UtilsCj7/assets/81049859/96fb6c89-8442-4d56-801a-41092bf9e029)|![1000332898](https://github.com/Juliocj7/UtilsCj7/assets/81049859/a5779de8-8ae0-48f0-ab29-d938a351df95)|
 
 ## UtilsCj7 :
 * Instalación de **recursos básicos** para Termux, además de un especial **teclado multilínea y multifuncional** con acceso a varios atajos (cada tecla contiene sus secretos xD).
