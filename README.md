@@ -50,8 +50,8 @@
 |![1000332899](https://github.com/Juliocj7/UtilsCj7/assets/81049859/715cfcf1-7c61-42e3-b2ed-7165ccf8696b)|![1000332900](https://github.com/Juliocj7/UtilsCj7/assets/81049859/c0018f21-b92f-46ac-94bf-f7d1f7bbbe6c)|
 
 ## UtilsCj7 :
-* Instalación de **recursos básicos** para Termux, además de un especial **teclado multilínea y multifuncional** con acceso a varios atajos (cada tecla contiene sus secretos xD).
-* Crea un **acceso directo** hacia tu memoria externa (microsd) (si la tienes disponible).
+* Instalación de **recursos básicos** para Termux, además de un especial **teclado multilínea y multifuncional** con acceso a varios atajos (cada tecla contiene sus secretos).
+* Crea un **acceso directo** hacia tu memoria externa `microsd` (si la tienes disponible).
 * Lista todos los **paquetes a instalar** y obtén el espacio exacto que ocupará en tu almacenamiento.
 * Contenido, código, diseño y demás, pertenecen plena y totalmente a mí :sunglasses:
 - > 𝙱𝚢: ` ⍣᭕ᬁ᭖𝙹𝚞𝚕𝚒𝚘𖤐𝙲𝚓7᭖᭕ᬁ⍣ `
@@ -62,8 +62,8 @@
 > >   <summary>&nbsp;𝚁𝚎𝚚𝚞𝚒𝚜𝚒𝚝𝚘 𝚒𝚖𝚙𝚘𝚛𝚝𝚊𝚗𝚝𝚎 &#9995;&#127995;</summary>
 > >
 > > ###
-> > <sub>𝙸𝚗𝚜𝚝𝚊𝚕𝚕:</sub> [𝚃𝚎𝚛𝚖𝚞𝚡-𝙰𝚙𝚙](https://github.com/termux/termux-app/actions)<br>
-> > <sub>𝙸𝚗𝚜𝚝𝚊𝚕𝚕:</sub> [𝚃𝚎𝚛𝚖𝚞𝚡-𝙰𝚙𝚒](https://github.com/termux/termux-api/actions)<br>
+> > <sub>𝙸𝚗𝚜𝚝𝚊𝚕𝚕:</sub> [𝚃𝚎𝚛𝚖𝚞𝚡-𝙰𝚙𝚙](https://github.com/termux/termux-app)<br>
+> > <sub>𝙸𝚗𝚜𝚝𝚊𝚕𝚕:</sub> [𝚃𝚎𝚛𝚖𝚞𝚡-𝙰𝚙𝚒](https://github.com/termux/termux-api)<br>
 > > </details>
 
 ###### 𝟶𝟷. 𝙰𝚌𝚝𝚞𝚊𝚕𝚒𝚣𝚊𝚛 𝚙𝚊𝚚𝚞𝚎𝚝𝚎𝚜
