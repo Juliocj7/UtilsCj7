@@ -106,6 +106,7 @@ cd UtilsCj7 && chmod +x * && ./UtilsCj7
 <div align="center">
   <a href="#repo-content-pjax-container">
     <img alt="scroll-up" src="https://raw.githubusercontent.com/Juliocj7/Juliocj7/main/assets/image/i-scrollup.gif" width="35" height="35" />
+  </a>
 </div>
 
 <div align="center">
