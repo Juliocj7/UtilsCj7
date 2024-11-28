@@ -1,24 +1,24 @@
-<!--
-♤♡◇♧♤♡◇♧♤♡◇♧♤♡◇♧♤♡◇♧♤♡◇♧♤♡◇♧♤♡◇♧♤♡◇♧♤♡◇♧♤♡
-[ ! ] 𝙸𝙼𝙿𝙾𝚁𝚃𝙰𝙽𝚃𝙴 :
-***** ********** *
-𝙳𝙴𝙹𝙰 𝙳𝙴 𝙲𝙾𝙿𝙸𝙰𝚁𝙼𝙴 𝙷𝙰𝚂𝚃𝙰 𝙴𝙻 𝚁𝙴𝙰𝙳𝙼𝙴.𝚖𝚍 𝙸𝙽𝙼𝚄𝙽𝙳𝙾 𝙰𝙽𝙸𝙼𝙰𝙻...
-𝚂𝙴 𝙾𝚁𝙸𝙶𝙸𝙽𝙰𝙻 𝚈 𝙳𝙴𝙹𝙰 𝙳𝙴 𝚁𝙾𝙱𝙰𝚁 𝚂𝙲𝚁𝙸𝙿𝚃𝚂 𝚈 𝙴𝚂𝚃𝙸𝙻𝙾𝚂 𝙰 𝙾𝚃𝚁𝙾𝚂
-______________________________________________________
-♤♡◇♧♤♡◇♧♤♡◇♧♤♡◇♧♤♡◇♧♤♡◇♧♤♡◇♧♤♡◇♧♤♡◇♧♤♡◇♧♤♡
--->
+<!--/*𝚂𝚒𝚖𝚙𝚕𝚢𝚃𝚑𝚎𝙱𝚎𝚜𝚝*/*𝚂𝚒𝚖𝚙𝚕𝚢𝚃𝚑𝚎𝙱𝚎𝚜𝚝*/*𝚂𝚒𝚖𝚙𝚕𝚢𝚃𝚑𝚎𝙱𝚎𝚜𝚝*/
+  —————————————————————————————————————————————————————
+  [¡𝙸𝙼𝙿𝙾𝚁𝚃𝙰𝙽𝚃!] 𝙳𝚎𝚓𝚊 𝚍𝚎 𝚌𝚘𝚙𝚒𝚊𝚛𝚖𝚎 𝚑𝚊𝚜𝚝𝚊 𝚎𝚕 𝚁𝙴𝙰𝙳𝙼𝙴.𝚖𝚍, 𝚜𝚎
+  𝚊𝚞𝚝𝚎𝚗𝚝𝚒𝚌𝚘 𝚢 𝚍𝚎𝚓𝚊 𝚍𝚎 𝚙𝚕𝚊𝚐𝚒𝚊𝚛 𝚜𝚌𝚛𝚒𝚙𝚝𝚜 𝚢 𝚎𝚜𝚝𝚒𝚕𝚘𝚜 𝚊𝚓𝚎𝚗𝚘𝚜.
+  —————————————————————————————————————————————————————
+/*𝚂𝚒𝚖𝚙𝚕𝚢𝚃𝚑𝚎𝙱𝚎𝚜𝚝*/*𝚂𝚒𝚖𝚙𝚕𝚢𝚃𝚑𝚎𝙱𝚎𝚜𝚝*/*𝚂𝚒𝚖𝚙𝚕𝚢𝚃𝚑𝚎𝙱𝚎𝚜𝚝*/-->
 
 <div align="center">
-  <a href="https://github.com/Juliocj7">
-    <img title="Author" src="https://img.shields.io/badge/Author-𖤐 𝙹𝚞𝚕𝚒𝚘 𝙲𝚓7 𖤐-svg?style=flat&color=000000&logo=github">
+  <a href="#---">
+    <img alt="author gh-profile" src="https://img.shields.io/badge/Author-⸸ 𝙹𝚞𝚕𝚒𝚘𖤐𝙲𝚓7 ⸸-svg?label=Author%20:&labelColor=222&style=flat&color=000&logo=github" />
   </a>
 </div>
 
 <br>
 
 <div align="center">
-  <a href="#--------">
-    <img title="Mi Banner" src="https://github.com/Juliocj7/Juliocj7/blob/main/InicioCj72.gif" width="350" height="105" />
+  <a href="#---">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Juliocj7/Juliocj7/blob/main/imagesgif/banner-dark.gif">
+      <img alt="banner gh-profile" src="https://github.com/Juliocj7/Juliocj7/blob/main/imagesgif/banner-light.gif" />
+    </picture>
   </a>
 </div>
 
@@ -26,16 +26,15 @@ ______________________________________________________
 
 <div align="center">
   <details>
-    <!--<summary>  ⸸𝕵𝖚𝖑𝖎𝖔𖤐𝖈𝖏7⸸ </summary>-->
     <summary>  𝙹𝚞𝚕𝚒𝚘𖤐𝙲𝚓7 </summary>
-    <a href="#--------">
-      <img src= "https://github.com/Juliocj7/Juliocj7/blob/main/BarCj7.gif" />
+    <a href="#---">
+      <img src="https://github.com/Juliocj7/Juliocj7/blob/main/imagesgif/rainbowbar2.gif" />
     </a>
     <br><br>
     <p align="left"><strong><samp>「</samp></strong></p>
     <samp>
-      Puedes mirar pero no
-      copiar<br>inmundo animal xD
+      𝙿𝚞𝚎𝚍𝚎𝚜 𝚖𝚒𝚛𝚊𝚛 𝚙𝚎𝚛𝚘 𝚗𝚘 <br>𝚌𝚘𝚙𝚒𝚊𝚛
+      𝚒𝚗𝚖𝚞𝚗𝚍𝚘 𝚊𝚗𝚒𝚖𝚊𝚕 𝚡𝙳
     </samp>
     <br>
     <p align="right"><strong><samp>」</samp></strong></p>
@@ -46,8 +45,8 @@ ______________________________________________________
 ![1000330876](https://github.com/Juliocj7/UtilsCj7/assets/81049859/ca23848d-893b-4a4f-aa11-d75e2598dd5d)
 
 ## Recursos Básicos :
-|pkgs|pkgs|
-|:--:|:--:|
+|pkg's|pkg's|
+|:---:|:---:|
 |![1000332899](https://github.com/Juliocj7/UtilsCj7/assets/81049859/715cfcf1-7c61-42e3-b2ed-7165ccf8696b)|![1000332900](https://github.com/Juliocj7/UtilsCj7/assets/81049859/c0018f21-b92f-46ac-94bf-f7d1f7bbbe6c)|
 
 ## UtilsCj7 :
@@ -67,19 +66,19 @@ ______________________________________________________
 > > <sub>𝙸𝚗𝚜𝚝𝚊𝚕𝚕:</sub> [𝚃𝚎𝚛𝚖𝚞𝚡-𝙰𝚙𝚒](https://github.com/termux/termux-api/actions)<br>
 > > </details>
 
-###### 01. Actualizar paquetes
+###### 𝟶𝟷. 𝙰𝚌𝚝𝚞𝚊𝚕𝚒𝚣𝚊𝚛 𝚙𝚊𝚚𝚞𝚎𝚝𝚎𝚜
 ```shell
 yes|{ apt update && apt upgrade; }
 ```
-###### 02. Instalar requisitos
+###### 𝟶𝟸. 𝙸𝚗𝚜𝚝𝚊𝚕𝚊𝚛 𝚛𝚎𝚚𝚞𝚒𝚜𝚒𝚝𝚘𝚜
 ```shell
 yes| pkg i git ncurses-utils
 ```
-###### 03. Clonar repositorio
+###### 𝟶𝟹. 𝙲𝚕𝚘𝚗𝚊𝚛 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚘
 ```shell
 gh repo clone Juliocj7/UtilsCj7
 ```
-###### 04. Ahora disfruta xD
+###### 𝟶𝟺. 𝙰𝚑𝚘𝚛𝚊 𝚍𝚒𝚜𝚏𝚛𝚞𝚝𝚊 𝚡𝙳
 ```shell
 cd UtilsCj7 && chmod +x * && ./UtilsCj7
 ```
@@ -93,7 +92,7 @@ cd UtilsCj7 && chmod +x * && ./UtilsCj7
 ---
 
 ```ShellSession
-[𝙼𝚊𝚔𝚎@𝙱𝚢]:~$ #+59179424937 😜
+[𝙼𝚊𝚔𝚎@𝙱𝚢]:~$ #+𝟻𝟿𝟷𝟽𝟿𝟺𝟸𝟺𝟿𝟹𝟽 😜
 ```
 
 <div align="center">
@@ -105,7 +104,9 @@ cd UtilsCj7 && chmod +x * && ./UtilsCj7
 </div>
 
 <div align="center">
-  <a href="#--------">
-    <img src= "https://github.com/Juliocj7/Juliocj7/blob/main/BarCj7.gif"/>
+  <a href="#---">
+    <img src="https://github.com/Juliocj7/Juliocj7/blob/main/imagesgif/rainbowbar2.gif" />
   </a>
 </div>
+
+<!-- 𝙲𝚘𝚙𝚢𝚛𝚒𝚐𝚑𝚝 © 𝟸𝟶𝟸𝟻 𝚊𝚕𝚕 𝚛𝚒𝚐𝚑𝚝𝚜 𝚛𝚎𝚜𝚎𝚛𝚟𝚎𝚍 🖕🏻 -->
