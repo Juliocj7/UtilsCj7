@@ -26,7 +26,7 @@
 
 <div align="center">
   <details>
-    <summary>  𝙹𝚞𝚕𝚒𝚘𖤐𝙲𝚓7 </summary>
+    <summary>  𝙹𝚞𝚕𝚒𝚘𖤐𝙲𝚓𝟽 </summary>
     <a href="#---">
       <img src="https://github.com/Juliocj7/Juliocj7/blob/main/assets/image/rainbowbar2.gif" />
     </a>
