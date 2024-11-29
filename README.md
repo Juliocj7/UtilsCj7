@@ -53,7 +53,7 @@
 * Instalación de **recursos básicos** para Termux, además de un especial **teclado multilínea y multifuncional** con acceso a varios atajos (cada tecla contiene sus secretos).
 * Crea un **acceso directo** hacia tu memoria externa `microsd` (si la tienes disponible).
 * Lista todos los **paquetes a instalar** y obtén el espacio exacto que ocupará en tu almacenamiento.
-* Contenido, código, diseño y demás, pertenecen plena y totalmente a mí :sunglasses:
+* El contenido, código, diseño y todo lo relacionado, son propiedad exclusiva y totalmente mía <img alt="i-boycute" src="https://github.com/Juliocj7/Juliocj7/blob/main/assets/image/i-boycute.png" width="20" height="20" />
 - > 𝙱𝚢: ` ⍣᭕ᬁ᭖𝙹𝚞𝚕𝚒𝚘𖤐𝙲𝚓7᭖᭕ᬁ⍣ `
 
 ## Instalación :
