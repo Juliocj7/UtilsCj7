@@ -36,7 +36,7 @@
       𝙿𝚞𝚎𝚍𝚎𝚜 𝚖𝚒𝚛𝚊𝚛 𝚙𝚎𝚛𝚘 𝚗𝚘 <br>𝚌𝚘𝚙𝚒𝚊𝚛
       𝚒𝚗𝚖𝚞𝚗𝚍𝚘 𝚊𝚗𝚒𝚖𝚊𝚕 𝚡𝙳
     </samp>
-    <br>
+    <br><br>
     <p align="right"><strong><samp>」</samp></strong></p>
   </details>
 </div>
