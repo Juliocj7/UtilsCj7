@@ -42,12 +42,12 @@
 </div>
 
 ## Menú Principal :
-![1000468603](https://github.com/user-attachments/assets/0edcb52a-c552-4173-8911-ac877af3701c)
+[![1000468603](https://github.com/user-attachments/assets/0edcb52a-c552-4173-8911-ac877af3701c)](#---)
 
 ## Recursos Básicos :
-|pkg's|pkg's|
+|𝚙𝚔𝚐𝚜|𝚙𝚔𝚐𝚜|
 |:---:|:---:|
-|![1000468604](https://github.com/user-attachments/assets/056959c4-d336-4f50-a4de-40a26306bc82)|![1000468605](https://github.com/user-attachments/assets/19aade7a-f9b9-44c0-bbd8-d120bca331c8)|
+|[![1000468604](https://github.com/user-attachments/assets/056959c4-d336-4f50-a4de-40a26306bc82)](#---)|[![1000468605](https://github.com/user-attachments/assets/19aade7a-f9b9-44c0-bbd8-d120bca331c8)](#---)|
 
 ## UtilsCj7 :
 * Instalación de **recursos básicos** para Termux, además de un especial **teclado multilínea y multifuncional** con acceso a varios atajos (cada tecla contiene sus secretos).
